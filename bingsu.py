@@ -1,7 +1,6 @@
 import streamlit as st  #streamlit를 st로 정의
 import pandas as pd     #pandas를 pd로 정의
 import numpy as np      #numpy를 np로 정의
-import tkinter as tk
 
 
 st.title(':green[녹차빙수]')    #제목
